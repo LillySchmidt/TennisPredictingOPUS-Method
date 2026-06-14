@@ -5,6 +5,10 @@
 *.h5
 *.parquet
 
+# Draft paper files (published separately)
+final_paper_v4.pdf
+final_paper_v4.txt
+
 # Python cache
 __pycache__/
 *.py[cod]
