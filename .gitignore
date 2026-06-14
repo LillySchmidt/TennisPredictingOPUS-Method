@@ -1,0 +1,26 @@
+# Large prediction/output files
+*.csv
+*.pkl
+*.pth
+*.h5
+*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment
+.env

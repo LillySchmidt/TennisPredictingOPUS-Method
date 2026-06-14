@@ -1,0 +1,116 @@
+{
+  "all_levels": {
+    "n": 665430,
+    "accuracy": 0.6511007919691026,
+    "brier": 0.2168257112954018,
+    "roc_auc": NaN
+  },
+  "main_tour": {
+    "n": 173305,
+    "accuracy": 0.6730330919477222,
+    "brier": 0.2067097028437267,
+    "roc_auc": NaN
+  },
+  "challenger": {
+    "n": 478787,
+    "accuracy": 0.6428850407383659,
+    "brier": 0.22062786143847746,
+    "roc_auc": NaN
+  },
+  "davis_cup": {
+    "n": 13275,
+    "accuracy": 0.6607156308851224,
+    "brier": 0.21203188649247035,
+    "roc_auc": NaN
+  },
+  "olympics": {
+    "n": 63,
+    "accuracy": 0.7301587301587301,
+    "brier": 0.1592512418305826,
+    "roc_auc": NaN
+  },
+  "level_15": {
+    "n": 40836,
+    "accuracy": 0.6266529532765207,
+    "brier": 0.2282912431285191,
+    "roc_auc": NaN
+  },
+  "level_25": {
+    "n": 24829,
+    "accuracy": 0.6475089612952596,
+    "brier": 0.22012277133752678,
+    "roc_auc": NaN
+  },
+  "level_A": {
+    "n": 122504,
+    "accuracy": 0.6646068699797557,
+    "brier": 0.21047810397397776,
+    "roc_auc": NaN
+  },
+  "level_D": {
+    "n": 13275,
+    "accuracy": 0.6607156308851224,
+    "brier": 0.21203188649247035,
+    "roc_auc": NaN
+  },
+  "level_F": {
+    "n": 587,
+    "accuracy": 0.6507666098807495,
+    "brier": 0.21215415843185662,
+    "roc_auc": NaN
+  },
+  "level_G": {
+    "n": 26614,
+    "accuracy": 0.7184188772826332,
+    "brier": 0.18374996034622562,
+    "roc_auc": NaN
+  },
+  "level_M": {
+    "n": 23600,
+    "accuracy": 0.6661440677966102,
+    "brier": 0.2129050621377093,
+    "roc_auc": NaN
+  },
+  "level_O": {
+    "n": 63,
+    "accuracy": 0.7301587301587301,
+    "brier": 0.1592512418305826,
+    "roc_auc": NaN
+  },
+  "level_S": {
+    "n": 413122,
+    "accuracy": 0.6442116372403309,
+    "brier": 0.21990071310801318,
+    "roc_auc": NaN
+  },
+  "warmup_30_all": {
+    "n": 396751,
+    "accuracy": 0.6606939869086657,
+    "brier": 0.21367580760203062,
+    "roc_auc": NaN
+  },
+  "warmup_30_main_tour": {
+    "n": 143907,
+    "accuracy": 0.6702592646639843,
+    "brier": 0.20828150918446758,
+    "roc_auc": NaN
+  },
+  "warmup_30_challenger": {
+    "n": 244856,
+    "accuracy": 0.6550911556179959,
+    "brier": 0.21696449556316413,
+    "roc_auc": NaN
+  },
+  "warmup_30_davis_cup": {
+    "n": 7925,
+    "accuracy": 0.6595583596214512,
+    "brier": 0.21045196793118603,
+    "roc_auc": NaN
+  },
+  "warmup_30_olympics": {
+    "n": 63,
+    "accuracy": 0.7301587301587301,
+    "brier": 0.1592512418305826,
+    "roc_auc": NaN
+  }
+}
